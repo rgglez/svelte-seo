@@ -4,15 +4,20 @@ Optimize your Svelte app for search engines and social media with meta tags, Ope
 
 Svelte SEO is a powerful and easy-to-use package designed to optimize your Svelte app for search engines and social media. By adding essential meta tags, Open Graph, Twitter Card tags, and JSON-LD to your pages, Svelte SEO improves your website's visibility and ranking in search results.
 
+## Notes
+
+Original developer seems to have abandoned this project, so I started to patch it in a forked repository. The current package at npm is still based on the original repository.
+
 **Sponsor Svelte SEO**
 
-Original developer seems to have abandoned this project, so I started to patch it in a forked repository. If you find this software useful, please consider supporting 
-<a href="https://www.buymeacoffee.com/rggonzalez" target="_blank">me</a> or the <a href="https://www.buymeacoffee.com/artiebits" target="_blank">original</a> author.
+If you find this software useful, please consider supporting <a href="https://www.buymeacoffee.com/rggonzalez" target="_blank">me</a> 
+or the <a href="https://www.buymeacoffee.com/artiebits" target="_blank">original</a> author.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Svelte SEO](#svelte-seo)
+  - [Notes](#notes)
   - [Installation](#installation)
   - [Usage](#usage)
     - [Basic Usage](#basic-usage)
