@@ -1,4 +1,9 @@
-# Svelte SEO
+# svelte-seo
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub all releases](https://img.shields.io/github/downloads/rgglez/svelte-seo/total) 
+![GitHub issues](https://img.shields.io/github/issues/rgglez/svelte-seo) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/svelte-seo)
 
 Optimize your Svelte app for search engines and social media with meta tags, Open Graph, and JSON-LD.
 
@@ -16,7 +21,7 @@ or the <a href="https://www.buymeacoffee.com/artiebits" target="_blank">original
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Svelte SEO](#svelte-seo)
+- [svelte-seo](#svelte-seo)
   - [Notes](#notes)
   - [Installation](#installation)
   - [Usage](#usage)
