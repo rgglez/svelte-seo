@@ -54,6 +54,13 @@
   export let jsonLd = undefined;
 
   import OpenGraphComponent from "./open-graph.svelte";
+
+  let jsonldScript = '';
+  if (jsonLd) {
+    const data = Object.assign({}, jsonLd);
+    jsonldScript = `<script type="application/ld+json">${JSON.stringify({ "@context": "https://schema.org", data }) +
+      "<"}/script>`;  
+  }
 </script>
 
 <svelte:head>
@@ -141,10 +148,7 @@
   {/if}
 
   {#if jsonLd}
-    {@const data = Object.assign({}, jsonLd)}
-    {@html `<script type="application/ld+json">${
-      JSON.stringify({ "@context": "https://schema.org", data }) + "<"
-    }/script>`}
+    {@html jsonldScript}
   {/if}
 
   <slot />

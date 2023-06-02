@@ -6,25 +6,25 @@ Svelte SEO is a powerful and easy-to-use package designed to optimize your Svelt
 
 **Sponsor Svelte SEO**
 
-If you rely on Svelte SEO and find it useful, please consider supporting it. Maintaining an open source project takes time and your support would be greatly appreciated.
-
-<a href="https://www.buymeacoffee.com/artiebits" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+Original developer seems to have abandoned this project, so I started to patch it in a forked repository. If you find this software useful, please consider supporting 
+<a href="https://www.buymeacoffee.com/rggonzalez" target="_blank">me</a> or the <a href="https://www.buymeacoffee.com/artiebits" target="_blank">original</a> author.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Basic Usage](#basic-usage)
-  - [Advanced Usage](#advanced-usage)
-- [Svelte SEO Properties](#svelte-seo-properties)
-  - [Open Graph](#open-graph)
-  - [Twitter](#twitter)
-  - [Facebook](#facebook)
-  - [JSON-LD](#json-ld)
-- [Setting Default SEO Properties](#setting-default-seo-properties)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
+- [Svelte SEO](#svelte-seo)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [Basic Usage](#basic-usage)
+    - [Advanced Usage](#advanced-usage)
+  - [Svelte SEO Properties](#svelte-seo-properties)
+    - [Open Graph](#open-graph)
+    - [Twitter](#twitter)
+    - [Facebook](#facebook)
+    - [JSON-LD](#json-ld)
+  - [Setting Default SEO Properties](#setting-default-seo-properties)
+  - [Acknowledgements](#acknowledgements)
+  - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
