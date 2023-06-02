@@ -227,8 +227,8 @@ You can set default SEO properties that will appear on every page without needin
 
 ## Acknowledgements
 
-This is inspired by [Next SEO](https://github.com/garmeeh/next-seo) by [@garmeeh](https://github.com/garmeeh).
+This project was forked from [artiebits/svelte-seo](https://github.com/artiebits/svelte-seo), which in turn was inspired by [Next SEO](https://github.com/garmeeh/next-seo) by [@garmeeh](https://github.com/garmeeh).
 
 ## License
 
-MIT
+Please read the LICENSE file.
