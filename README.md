@@ -11,7 +11,7 @@ Svelte SEO is a powerful and easy-to-use package designed to optimize your Svelt
 
 ## Notes
 
-Original developer seems to have abandoned this project, so I started to patch it in a forked repository. The current package at npm is still based on the original repository.
+The original developer seems to have abandoned this project, so I started to patch it in a forked repository. The current package at npm **is still based on the original repository**.
 
 **Sponsor Svelte SEO**
 
