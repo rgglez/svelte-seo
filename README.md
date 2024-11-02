@@ -11,12 +11,7 @@ Svelte SEO is a powerful and easy-to-use package designed to optimize your Svelt
 
 ## Notes
 
-The original developer seems to have abandoned this project, so I started to patching it in this forked repository, because I needed to fix some errors. The current package at npm **is still based on the original repository**.
-
-**Sponsor Svelte SEO**
-
-If you find this software useful, please consider supporting <a href="https://www.buymeacoffee.com/rggonzalez" target="_blank">me</a> 
-or the <a href="https://www.buymeacoffee.com/artiebits" target="_blank">original</a> author.
+The original developer seems to have abandoned this project, so I started to patching it in this forked repository, because I needed to fix some errors.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -41,11 +36,11 @@ or the <a href="https://www.buymeacoffee.com/artiebits" target="_blank">original
 ## Installation
 
 - npm  
-  `npm install -D svelte-seo`
+  `npm install -D @rgglez/svelte-seo`
 - or yarn  
-  `yarn add -D svelte-seo`
+  `yarn add -D @rgglez/svelte-seo`
 - or pnpm  
-  `pnpm add -D svelte-seo`
+  `pnpm add -D @rgglez/svelte-seo`
 
 ## Usage
 
@@ -55,7 +50,7 @@ To add basic meta tags like "title" and "description" you can import the package
 
 ```svelte
 <script>
-  import SvelteSeo from "svelte-seo";
+  import SvelteSeo from "@rgglez/svelte-seo";
 </script>
 
 <SvelteSeo
@@ -70,7 +65,7 @@ You can provide additional properties to SvelteSeo component. Here is an example
 
 ```svelte
 <script>
-  import SvelteSeo from "svelte-seo";
+  import SvelteSeo from "@rgglez/svelte-seo";
 </script>
 
 <SvelteSeo
@@ -231,4 +226,7 @@ This project was forked from [artiebits/svelte-seo](https://github.com/artiebits
 
 ## License
 
-Please read the LICENSE file.
+Copyright (c) 2020 artiebits
+Copyright (c) 2024 Rodolfo González González
+
+Published under the [MIT license](https://tlo.mit.edu/understand-ip/exploring-mit-open-source-license-comprehensive-guide). Please read the [LICENSE](LICENSE) file.
