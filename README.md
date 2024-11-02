@@ -13,6 +13,8 @@ Svelte SEO is a powerful and easy-to-use package designed to optimize your Svelt
 
 The original developer seems to have abandoned this project, so I started to patching it in this forked repository, because I needed to fix some errors.
 
+## TOC
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
