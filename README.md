@@ -4,6 +4,8 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/rgglez/svelte-seo/total) 
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/svelte-seo) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/svelte-seo)
+![GitHub stars](https://img.shields.io/github/stars/rgglez/svelte-seo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rgglez/svelte-seo?style=social)
 
 Optimize your Svelte app for search engines and social media with meta tags, Open Graph, and JSON-LD.
 
