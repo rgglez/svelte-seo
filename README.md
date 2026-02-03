@@ -231,6 +231,6 @@ This project was forked from [artiebits/svelte-seo](https://github.com/artiebits
 ## License
 
 Copyright (c) 2020 artiebits
-Copyright (c) 2024 Rodolfo González González
+Copyright (c) 2026 Rodolfo González González
 
 Published under the [MIT license](https://tlo.mit.edu/understand-ip/exploring-mit-open-source-license-comprehensive-guide). Please read the [LICENSE](LICENSE) file.
